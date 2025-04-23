@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://medium.com/@hrishikesh19202" target="_blank">
-    <img src="https://github.com/fnky/fnky/raw/fnky/img/earth.gif" width="120" alt="Globe spinning" />
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/earth.gif" width="120" alt="Spinning Earth" />
   </a>
 </div>
 
@@ -24,9 +24,22 @@
 ---
 
 <div align="center">
-  <p><strong>🛸 Days since the Big Bang:</strong></p>
-  <img src="https://readme-bigbang-counter.vercel.app/api" alt="Days since Big Bang" />
-  <p style="font-size: 11px;">(we're somewhere in the 5 trillion+ range... but who's counting?)</p>
+  <p><strong>🧠 Days since the Big Bang:</strong></p>
+  <table>
+    <tr>
+      <td><img src="https://www.kirupa.com/stuff/green_digit_5.gif" /></td>
+      <td><img src="https://www.kirupa.com/stuff/green_digit_0.gif" /></td>
+      <td><img src="https://www.kirupa.com/stuff/green_digit_4.gif" /></td>
+      <td><img src="https://www.kirupa.com/stuff/green_digit_5.gif" /></td>
+      <td><img src="https://www.kirupa.com/stuff/green_digit_3.gif" /></td>
+      <td><img src="https://www.kirupa.com/stuff/green_digit_6.gif" /></td>
+      <td><img src="https://www.kirupa.com/stuff/green_digit_9.gif" /></td>
+      <td><img src="https://www.kirupa.com/stuff/green_digit_4.gif" /></td>
+      <td><img src="https://www.kirupa.com/stuff/green_digit_2.gif" /></td>
+      <td><img src="https://www.kirupa.com/stuff/green_digit_0.gif" /></td>
+    </tr>
+  </table>
+  <p><em>(give or take a few trillion)</em></p>
 </div>
 
 ---
@@ -41,7 +54,7 @@
 ---
 
 <div align="center">
-  <p>💿 Best enjoyed with a CRT monitor and dial-up modem</p>
+  <p>💿 Best enjoyed on a CRT monitor with Netscape Navigator</p>
   <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" width="100" />
 </div>
 
