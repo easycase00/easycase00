@@ -22,21 +22,19 @@
 ---
 
 <div align="center">
-  <p><strong>🧠 Days since the Big Bang:</strong></p>
-  <table>
-    <tr>
-      <td><img src="https://www.kirupa.com/stuff/green_digit_5.gif" /></td>
-      <td><img src="https://www.kirupa.com/stuff/green_digit_0.gif" /></td>
-      <td><img src="https://www.kirupa.com/stuff/green_digit_4.gif" /></td>
-      <td><img src="https://www.kirupa.com/stuff/green_digit_5.gif" /></td>
-      <td><img src="https://www.kirupa.com/stuff/green_digit_3.gif" /></td>
-      <td><img src="https://www.kirupa.com/stuff/green_digit_6.gif" /></td>
-      <td><img src="https://www.kirupa.com/stuff/green_digit_9.gif" /></td>
-      <td><img src="https://www.kirupa.com/stuff/green_digit_4.gif" /></td>
-      <td><img src="https://www.kirupa.com/stuff/green_digit_2.gif" /></td>
-      <td><img src="https://www.kirupa.com/stuff/green_digit_0.gif" /></td>
-    </tr>
-  </table>
+  <p><strong>🧠 Days Since the Big Bang:</strong></p>
+  <p>
+    <img src="https://www.kirupa.com/stuff/green_digit_5.gif" />
+    <img src="https://www.kirupa.com/stuff/green_digit_0.gif" />
+    <img src="https://www.kirupa.com/stuff/green_digit_4.gif" />
+    <img src="https://www.kirupa.com/stuff/green_digit_5.gif" />
+    <img src="https://www.kirupa.com/stuff/green_digit_3.gif" />
+    <img src="https://www.kirupa.com/stuff/green_digit_6.gif" />
+    <img src="https://www.kirupa.com/stuff/green_digit_9.gif" />
+    <img src="https://www.kirupa.com/stuff/green_digit_4.gif" />
+    <img src="https://www.kirupa.com/stuff/green_digit_2.gif" />
+    <img src="https://www.kirupa.com/stuff/green_digit_0.gif" />
+  </p>
   <p><em>(give or take a few trillion)</em></p>
 </div>
 
