@@ -10,9 +10,7 @@
 </div>
 
 <div align="center">
-  <a href="https://medium.com/@hrishikesh19202" target="_blank">
-    <img src="https://github.com/fnky/fnky/raw/fnky/img/earth.gif" width="120" alt="Spinning Earth" />
-  </a>
+  <img src="https://www.animatedimages.org/data/media/152/animated-globe-image-0008.gif" width="100" alt="Rotating Earth" />
 </div>
 
 <h3 align="center">
@@ -45,7 +43,7 @@
 ---
 
 <div align="center">
-  <p><strong>📝 Leave a message in the Guest Book</strong></p>
+  <p><strong>📬 Leave a message in the Guest Book</strong></p>
   <a href="https://github.com/easycase00/easycase00/issues">
     <img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" width="150" />
   </a>
