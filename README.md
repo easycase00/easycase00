@@ -62,13 +62,16 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" style="text-decoration: none;">
-    <p>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk5c3Ftdm96cDZudDg0Y25uYWZ6YzNtaDdkN21raWZxZDVjbnVhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QxZEtFE02ofY00gJ71/giphy.gif" width="60" />
-      <strong>Have a Good Day</strong>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk5c3Ftdm96cDZudDg0Y25uYWZ6YzNtaDdkN21raWZxZDVjbnVhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QxZEtFE02ofY00gJ71/giphy.gif" width="60" />
-    </p>
+    <table>
+      <tr>
+        <td><img src="https://media.giphy.com/media/QxZEtFE02ofY00gJ71/giphy.gif" width="60" /></td>
+        <td style="padding: 0 20px;"><strong>Have a Good Day</strong></td>
+        <td><img src="https://media.giphy.com/media/QxZEtFE02ofY00gJ71/giphy.gif" width="60" /></td>
+      </tr>
+    </table>
   </a>
 </div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk5c3Ftdm96cDZudDg0Y25uYWZ6YzNtaDdkN21raWZxZDVjbnVhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f9w0K7c8vqYwuSPRHU/giphy.gif" width="100" />
