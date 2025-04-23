@@ -13,6 +13,10 @@
   <img src="https://www.animatedimages.org/data/media/152/animated-globe-image-0008.gif" width="100" alt="Rotating Earth" />
 </div>
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRnOG9vYXBobXM2c3hwZDExNDZvMDZ4M2Y3ZW1lZHo3cmgwaTA3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j5mwjor5i5PGigmPH2/giphy.gif" width="300" alt="Sparkly message" />
+</div>
+
 <h3 align="center">
   <a href="https://www.linkedin.com/in/hrishikeshmb/" target="_blank">
     Visit my professional dimension
