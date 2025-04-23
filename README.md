@@ -88,7 +88,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt0b29qYnlkMTV0NHd4NHp2bWdmd2xpM2x5N3plc2FueTdtenk5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiN0jHuzhUAo7yGsM/giphy.gif" width="250" alt="Dancing pixels for bonus vibes" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk5c3Ftdm96cDZudDg0Y25uYWZ6YzNtaDdkN21raWZxZDVjbnVhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f9w0K7c8vqYwuSPRHU/giphy.gif" />
 </div>
 
 
