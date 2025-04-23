@@ -24,16 +24,16 @@
 <div align="center">
   <p><strong>🧠 Days Since the Big Bang:</strong></p>
   <p>
-    <img src="https://www.kirupa.com/stuff/green_digit_5.gif" />
-    <img src="https://www.kirupa.com/stuff/green_digit_0.gif" />
-    <img src="https://www.kirupa.com/stuff/green_digit_4.gif" />
-    <img src="https://www.kirupa.com/stuff/green_digit_5.gif" />
-    <img src="https://www.kirupa.com/stuff/green_digit_3.gif" />
-    <img src="https://www.kirupa.com/stuff/green_digit_6.gif" />
-    <img src="https://www.kirupa.com/stuff/green_digit_9.gif" />
-    <img src="https://www.kirupa.com/stuff/green_digit_4.gif" />
-    <img src="https://www.kirupa.com/stuff/green_digit_2.gif" />
-    <img src="https://www.kirupa.com/stuff/green_digit_0.gif" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVqZjVwOW5weGVnczFzaXo3aWZhZXZjY2U0cGJsZzF6aTVnYWwxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k1lJ0A2o4OQew8/giphy.gif" width="30" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZqMXpwOWlheXZyMng0cWYzY281MmRyajNraTNlZnN4c2prdzBqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DnECgEkpMIQEBXOMRT/giphy.gif" width="30" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhvd3lwZmg1eHN4MDBpbW5qem01Y2x1dDcweDQ5ejY4M2I5dDgyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9kacqGycKQRH6Vy/giphy.gif" width="30" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVqZjVwOW5weGVnczFzaXo3aWZhZXZjY2U0cGJsZzF6aTVnYWwxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9k1lJ0A2o4OQew8/giphy.gif" width="30" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5yZmV4cGg4N2FpNHZxYXF4MG5tNGt4ZWYwa2gzc250dDllZGczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378kmO7gdbXaesXS/giphy.gif" width="30" />
+    <img src="https://media.giphy.com/media/l0Ex9pftnvPgw0nPa/giphy.gif" width="30" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGExcGdnc3NwYTdqeDVpOWNnemhrYTlnM3pvZ2lyY2xvemhrd3g4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378atCG9uQQa1Fy8/giphy.gif" width="30" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5yZmV4cGg4N2FpNHZxYXF4MG5tNGt4ZWYwa2gzc250dDllZGczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378kmO7gdbXaesXS/giphy.gif" width="30" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhvd3lwZmg1eHN4MDBpbW5qem01Y2x1dDcweDQ5ejY4M2I5dDgyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9kacqGycKQRH6Vy/giphy.gif" width="30" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZqMXpwOWlheXZyMng0cWYzY281MmRyajNraTNlZnN4c2prdzBqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DnECgEkpMIQEBXOMRT/giphy.gif" width="30" />
   </p>
   <p><em>(give or take a few trillion)</em></p>
 </div>
