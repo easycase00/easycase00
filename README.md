@@ -40,8 +40,8 @@
     <img src="https://media.giphy.com/media/3ov9jN0pX7QuoTP2eY/giphy.gif" width="40" />
     <!-- 4 -->
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5yZmV4cGg4N2FpNHZxYXF4MG5tNGt4ZWYwa2gzc250dDllZGczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378kmO7gdbXaesXS/giphy.gif" width="40" />
-    <!-- 1 -->
-    <img src="[https://media3.giphy.com/media/3ov9kacqGycKQRH6Vy/giphy.gif](https://media3.giphy.com/media/3ov9kacqGycKQRH6Vy/giphy.gif)" width="40" />
+    <!-- 4 -->
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5yZmV4cGg4N2FpNHZxYXF4MG5tNGt4ZWYwa2gzc250dDllZGczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378kmO7gdbXaesXS/giphy.gif" width="40" />
     <!-- 0 -->
     <img src="https://media.giphy.com/media/DnECgEkpMIQEBXOMRT/giphy.gif" width="40" />
   </p>
