@@ -79,5 +79,13 @@
 ---
 
 <div align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" style="text-decoration: none;">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2l3dW9mNW0yejV5MTZyYjA4cjF3OHczYnJneG5wem93cGRmcHlxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S7FSQmBCa5iySWKs5g/giphy.gif" width="200" alt="Have a good day gif" />
+    <p><strong>☀️ Have a Good Day! ☀️</strong></p>
+  </a>
+</div>
+
+---
+<div align="center">
   <img src="https://github.com/fnky/fnky/raw/fnky/img/y2k.gif" width="200" />
 </div>
