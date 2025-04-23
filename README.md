@@ -66,8 +66,8 @@
 </div>
 
 ---
-
 <div align="center">
+  <p><strong>👾 You are not the first... and won't be the last traveler of this cosmic terminal!</strong></p>
   <img src="https://profile-counter.glitch.me/easycase00/count.svg" alt="hit counter" />
 </div>
 
