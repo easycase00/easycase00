@@ -85,8 +85,9 @@
 ---
 
 <div align="center">
-  <p>💿 Best enjoyed on a CRT monitor with Netscape Navigator</p>
+  
   <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" width="100" />
+  <p>💿 Best enjoyed on a CRT monitor with Netscape Navigator</p>
 </div>
 
 ---
