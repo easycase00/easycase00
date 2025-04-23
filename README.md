@@ -68,13 +68,6 @@
 ---
 
 <div align="center">
-  <p>💿 Best enjoyed on a CRT monitor with Netscape Navigator</p>
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" width="100" />
-</div>
-
----
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/easycase00/count.svg" alt="hit counter" />
 </div>
 
@@ -89,6 +82,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk5c3Ftdm96cDZudDg0Y25uYWZ6YzNtaDdkN21raWZxZDVjbnVhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f9w0K7c8vqYwuSPRHU/giphy.gif" width="100" />
 </div>
 
-
 ---
 
+<div align="center">
+  <p>💿 Best enjoyed on a CRT monitor with Netscape Navigator</p>
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" width="100" />
+</div>
+
+---
