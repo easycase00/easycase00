@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hrishikeshmb.hrishikeshmb" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=easycase00.easycase00" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Hrishikesh+Bharadwaj!;Data+Scientist+%7C+ML+Engineer+%7C+Creative+Technologist" />
@@ -10,35 +10,43 @@
 
 <div align="center">
 
-🔍 I build intelligent data systems — from LLM apps and data pipelines to real-time dashboards.  
-🎭 I also create music, produce plays, and design digital posters for the stage and the screen.
+🔍 I build intelligent data systems — from LLM apps and predictive pipelines to real-time dashboards.  
+🎭 I also make music, design posters, edit plays, and tell stories through theater & YouTube.
 
 </div>
 
 ---
 
-### 👨‍💻 Current Focus
+## 🔧 Skills & Tools
 
-- 🤖 Building AI agents for data analysis, summarization, and intelligent automation  
-- 📊 Visualizing insights through Power BI, Streamlit, and Notion dashboards  
-- 📦 Architecting end-to-end workflows using Python, SQL, Spark, Airflow, and cloud tools  
-- 🧠 Training and deploying LLMs (Groq, Ollama, DeepSeek, Transformers)  
-- 🎬 Exploring generative AI + multimedia (posters, stage, audio)
+### 👨‍💻 Programming Languages & Libraries
+`Python` `SQL` `R` `Bash` `JavaScript` `C++` `C#` `HTML/CSS`  
+`TensorFlow` `PyTorch` `Scikit-learn` `NLTK` `Transformers` `Keras` `XGBoost`
+
+### 📊 Data Analytics & Visualization
+`Pandas` `NumPy` `Power BI` `Tableau` `Looker Studio` `Excel (Macros, Pivot Tables)`  
+`A/B Testing` `ANOVA` `Statistical Modeling` `EDA` `Time Series Analysis`
+
+### 🏗️ Data Engineering & Infrastructure
+`Apache Spark` `PySpark` `Airflow` `Kafka` `Hadoop` `Delta Lake` `Snowflake`  
+`BigQuery` `MongoDB` `Firebase` `PostgreSQL` `MySQL` `CI/CD Pipelines` `Docker` `Kubernetes`
+
+### ☁️ Cloud & Deployment
+`AWS (S3, Lambda, EC2, SageMaker)` `GCP` `Azure SQL` `Qdrant`  
+`FastAPI` `Streamlit` `Flask` `Git` `GitHub Actions` `Notion API` `Neo4j`
 
 ---
 
-### 📌 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [📦 Plate Parser AI](https://github.com/easycase00/Plate_Parser_Menu_AI) | Menu OCR + Q&A pipeline using Groq LLaMA 3.3 and Qdrant |
-| [📨 SmartMail AI](https://github.com/easycase00/AI-Agent_Gmail_Notion) | Gmail-to-Notion LLM agent for job search and productivity |
-| [📈 InsightIQ](https://github.com/easycase00/InsightIQ) | CSV upload → automated EDA + dashboards with Streamlit |
-| [🧾 MacroSage](https://github.com/easycase00/MacroSage) | LLM-powered web crawler for financial indicators |
+## 🎨 Outside Tech
+
+🎭 I direct and produce stage plays, design posters and edit theater productions for video.  
+🎵 I compose music on **FL Studio** and blend genres like ambient, lo-fi, and electronic.  
+📽️ I create visual content that tells stories at the intersection of code and creativity.
 
 ---
 
-### 📫 Let’s Connect
+## 📬 Let’s Connect
 
 <div align="center">
   <a href="mailto:hrishikesh19202@gmail.com" target="_blank">
@@ -54,13 +62,4 @@
 
 ---
 
-### 🛠️ Skills & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,aws,postgresql,airflow,spark,tensorflow,pytorch,docker,git,flask,streamlit,jupyter,fastapi,neo4j,figma,linux,vscode" />
-</div>
-
----
-
-> ✨ *"I blend the analytical with the artistic — whether training models, automating insights, or scripting for stage and screen."*
-
+> ✨ *"I blend analytical precision with creative intuition — whether training models, writing music, or scripting for the stage."*
